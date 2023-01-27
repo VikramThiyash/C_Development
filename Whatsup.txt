@@ -4,3 +4,4 @@ Project
 2.Dashboard
 3.Chat page
 4.Attachment
+7.Hide last seen
