@@ -1,7 +1,8 @@
 Project
+Author - Vikram
 
-1.Login
-2.Dashboard
-3.Chat page
-4.Attachment
-7.Hide last seen
+1. Cricket match schedule
+2.Fix a opponent
+3.Fix a ground and time
+4. Select squad
+
