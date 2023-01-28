@@ -1,2 +1,2 @@
-# Cricket_Development
+# Cr_Development
 This contains the details related to Whatsup project
